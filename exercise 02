@@ -9,4 +9,5 @@ exercise 02
 2. Can you explain the pattern of the accuracy when the hidden nodes increase?
 
      Initially, increasing the number of hidden nodes should improve the accuracy because the model can learn more complex features.
-     However, after a certain point, adding more hidden nodes may lead to overfitting, where the model performs well on the training data but poorly on unseen data.       In this specific case, since we are only checking training accuracy, it might continue to increase but with diminishing returns.
+     However, after a certain point, adding more hidden nodes may lead to overfitting, where the model performs well on the training data but poorly on unseen data. 
+     In this specific case, since we are only checking training accuracy, it might continue to increase but with diminishing returns.
